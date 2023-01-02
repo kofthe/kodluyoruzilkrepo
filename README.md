@@ -1,4 +1,4 @@
-![Project](https://www.hizliresim.com/sq7n2bp)
+![Project](https://i.hizliresim.com/sq7n2bp.png)
 
 # Kodluyoruz Ilk Repo
 
