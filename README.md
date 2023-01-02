@@ -13,6 +13,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) DefineX Java Spring Practicum E
 git clone https://github.com/kofthe/kodluyoruzilkrepo](https://github.com/kofthe/kodluyoruzilkrepo
 ```
 
+
+
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -23,6 +25,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+  
+
 
 ## Contributing
 
